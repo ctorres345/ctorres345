@@ -3,11 +3,12 @@
 Senior Mobile Engineer from Peru, building apps with Android, iOS and Flutter.
 
 - 📱 Native Android (Kotlin), iOS (Swift) and cross-platform with Flutter
-- 🎨 Latest side project: [PawlyPaint](https://github.com/ctorres345/PawlyPaint), an ad-free jewel painting game I built for my girlfriend
+- 📚 Newest project: [yomineko 読み猫](https://github.com/ctorres345/yomineko), a free tool that turns the Japanese script of GBA and Game Boy Color games you own into flashcards (word lists, example sentences, Anki decks). Built in Python while studying Japanese with the games I play ([PyPI](https://pypi.org/project/yomineko/))
+- 🎨 Side project: [PawlyPaint](https://github.com/ctorres345/PawlyPaint), an ad-free jewel painting game I built for my girlfriend
 - 🤖 Exploring AI-assisted development with Claude Code and Gemini Argon
 - 🌎 Based in Peru
 
-Tech: Kotlin · Swift · Flutter · Dart · Jetpack Compose
+Tech: Kotlin · Swift · Flutter · Dart · Jetpack Compose · Python
 
 <p>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" alt="Kotlin">
@@ -15,6 +16,7 @@ Tech: Kotlin · Swift · Flutter · Dart · Jetpack Compose
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter">
   <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" alt="Dart">
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white" alt="Jetpack Compose">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
 </p>
 
 ☕ [Support me on Ko-fi](https://ko-fi.com/pandaveloper)
