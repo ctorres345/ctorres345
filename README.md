@@ -5,7 +5,7 @@ Senior Mobile Engineer from Peru, building apps with Android, iOS and Flutter.
 - 📱 Native Android (Kotlin), iOS (Swift) and cross-platform with Flutter
 - 📚 Newest project: [yomineko 読み猫](https://github.com/ctorres345/yomineko), a free tool that turns the Japanese script of GBA and Game Boy Color games you own into flashcards (word lists, example sentences, Anki decks). Built in Python while studying Japanese with the games I play ([PyPI](https://pypi.org/project/yomineko/))
 - 🎨 Side project: [PawlyPaint](https://github.com/ctorres345/PawlyPaint), an ad-free jewel painting game I built for my girlfriend
-- 🤖 Exploring AI-assisted development with Claude Code and Gemini Argon
+- 🤖 Exploring AI-assisted development
 - 🌎 Based in Peru
 
 Tech: Kotlin · Swift · Flutter · Dart · Jetpack Compose · Python
