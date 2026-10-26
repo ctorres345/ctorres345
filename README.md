@@ -3,9 +3,9 @@
 Senior Mobile Engineer from Peru, building apps with Android, iOS and Flutter.
 
 - 📱 Native Android (Kotlin), iOS (Swift) and cross-platform with Flutter
-- 🐾 Newest project: [Valedocs](https://github.com/ctorres345/valedocs), a free web app that helps teachers register grades: import the class list from Excel, record conduct, attendance and monthly norms, then export to Excel, PDF or Word. Everything stays in the browser. Built in TypeScript for my mother, who registers grades at a school ([try it](https://valedocs.cjtech.dev))
+- 🐾 Newest project: [Valedocs](https://github.com/ctorres345/valedocs), a free web app that helps teachers register grades: import the class list from Excel, record conduct, attendance and monthly norms, then export to Excel, PDF or Word. Everything stays in the browser. Built in TypeScript for my mother. ([try it](https://valedocs.cjtech.dev))
 - 📚 [yomineko 読み猫](https://github.com/ctorres345/yomineko), a free tool that turns the Japanese script of GBA and Game Boy Color games you own into flashcards (word lists, example sentences, Anki decks). Built in Python while studying Japanese with the games I play ([PyPI](https://pypi.org/project/yomineko/))
-- 🎨 Side project: [PawlyPaint](https://github.com/ctorres345/PawlyPaint), an ad-free jewel painting game I built for my girlfriend
+- 🎨 Side project: [PawlyPaint](https://github.com/ctorres345/PawlyPaint), an ad-free jewel painting game I built for my girlfriend.
 - 🤖 Exploring AI-assisted development
 - 🌎 Based in Peru
 
