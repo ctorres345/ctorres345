@@ -3,7 +3,8 @@
 Senior Mobile Engineer from Peru, building apps with Android, iOS and Flutter.
 
 - 📱 Native Android (Kotlin), iOS (Swift) and cross-platform with Flutter
-- 🐾 Newest project: [Valedocs](https://github.com/ctorres345/valedocs), a free web app that helps teachers register grades: import the class list from Excel, record conduct, attendance and monthly norms, then export to Excel, PDF or Word. Everything stays in the browser. Built in TypeScript for my mother. ([try it](https://valedocs.cjtech.dev))
+- 😈 Newest project: [Demonica](https://github.com/ctorres345/Demonica), a friendlier fusion companion for Shin Megami Tensei IV. Pick the demon you want and see every way to fuse it as a tree, plan which skills to keep, and find where to recruit it. Works offline. Built in Flutter for web, Android and iOS. ([try it](https://ctorres345.github.io/Demonica/))
+- 🐾 [Valedocs](https://github.com/ctorres345/valedocs), a free web app that helps teachers register grades: import the class list from Excel, record conduct, attendance and monthly norms, then export to Excel, PDF or Word. Everything stays in the browser. Built in TypeScript for my mother. ([try it](https://valedocs.cjtech.dev))
 - 📚 [yomineko 読み猫](https://github.com/ctorres345/yomineko), a free tool that turns the Japanese script of GBA and Game Boy Color games you own into flashcards (word lists, example sentences, Anki decks). Built in Python while studying Japanese with the games I play ([PyPI](https://pypi.org/project/yomineko/))
 - 🎨 Side project: [PawlyPaint](https://github.com/ctorres345/PawlyPaint), an ad-free jewel painting game I built for my girlfriend.
 - 🤖 Exploring AI-assisted development
