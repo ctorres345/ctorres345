@@ -1,3 +1,5 @@
+![César Torres – Senior Android Engineer & Tech Lead](banner.svg)
+
 ### Hi, I'm Cesar 👋
 
 Senior Mobile Engineer from Peru, building apps with Android, iOS and Flutter.
