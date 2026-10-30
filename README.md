@@ -1,4 +1,7 @@
-![César Torres – Senior Android Engineer & Tech Lead](banner.svg)
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
+<img alt="César Torres – Senior Mobile Engineer" src="banner.svg">
+</picture>
 
 ### Hi, I'm Cesar 👋
 
